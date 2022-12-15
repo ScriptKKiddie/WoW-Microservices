@@ -7,7 +7,7 @@ WoW-Microservices is an all-in-one repository curated with the most relevant, up
 
 S.No. | Content/Topic | Additional Comment
 --- | --- | ---
-1 | [What are Microservices?](https://www.technical0812.com/post/microservices) | 
+1 | [What are Microservices?](https://www.shobhitsharma.net/article/microservices) | 
 
 ## Shortcuts
 
